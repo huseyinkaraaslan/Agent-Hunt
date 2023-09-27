@@ -5,6 +5,7 @@ Aiming system I developed using Animation Rigging
 
 [Gameplay](https://youtube.com/shorts/W_alZdidL84?feature=share)
 
+
 ### Sniper Enemy
 The sniper enemy feature I added to the game scans between two specified points by controlling the current point movement with MoveTowards. 
 <br/><br/>If the laser touches the player during the scan, the laser waits for 2 seconds at the point of contact with the player's body and goes into alarm (All enemies).
