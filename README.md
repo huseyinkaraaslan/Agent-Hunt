@@ -1,7 +1,8 @@
 # Agent-Hunt
 
 ### Aim System
-Aiming system I developed using Animation Rigging
+The aim system I developed using Animation Rigging.<br/>
+The character's designated joint point(left hand, right hand) is directed towards the player's aiming point
 
 [Gameplay](https://youtube.com/shorts/W_alZdidL84?feature=share)
 <br/><br/>
