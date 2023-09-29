@@ -1,5 +1,26 @@
 # Agent-Hunt
 
+### Developer Tool
+The tool I developed to greatly increase the speed of the game development process and provide a great benefit in specific testing and in the next stages, adding innovations to the game faster and solving bugs faster.
+<br/>
+<li> <b>Credit :</b>        It gives 10k coin for each click on the button.
+<li> <b>Diamond :</b>          It gives 10k diamonds for each click on the button.
+<li> <b>Revive Kit :</b> It gives 1 revive kit for each click on the button.
+<li> <b>Clear :</b> Whenever the button is clicked, all values are reset to zero.
+  <br/><br/>
+  
+<li> <b>Play :</b> After selecting the desired level using the buttons on the right and left sides of the 'Level' and 'Chapter' values, clicking the 'Play' button will start the chosen section.
+<li> <b>End Level :</b> When a level is being played, pressing the 'End Level' button completes the current level. The 'End Level' button does not function while in the menu.
+<br/><br/>
+  
+<li> <b>New Bounty :</b> Bounty levels are designed for players to earn extra rewards and the loading time for each bounty level is one hour.When the 'New Bounty' button is clicked, the bounty level loads without the need to wait for this duration.
+<li> <b>End Bounty :</b> When a bounty level is being played, pressing the 'End Bounty' button completes the current bounty level.
+  <br/><br/>
+<li> <b>Die :</b> While playing a level, pressing the 'Die' button will kill the player.
+<li> <b>Unlock Guns :</b> Unlocks all weapons locked in the weapon store
+<li> <b>Next Weapon :</b> It shows which weapon will be unlocked at the end of the next level and what percentage the weapon will be unlocked in that level.
+<br/><br/>
+
 ### Aim System
 The aim system I developed using Animation Rigging.<br/>
 The character's designated joint point(left hand, right hand) is directed towards the player's aiming point
